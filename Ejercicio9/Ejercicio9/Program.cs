@@ -10,7 +10,7 @@ namespace Ejercicio9
     {
         static void Main(string[] args)
         {
-            int[] numeros = { 8, 4, 9, 2, 6, 10 };
+            int[] numeros = { 2, 4, 7, 5, 6, 1 };
 
             int posicion = PosicionDelMenor(numeros);
 
@@ -19,14 +19,14 @@ namespace Ejercicio9
 
         static int PosicionDelMenor(int[] array)
         {
-            int menor = array[0];
+            int numeroMenor = array[0];
             int posicion = 0;
 
             for (int i = 1; i < array.Length; i++)
             {
-                if (array[i] < menor)
+                if (array[i] < numeroMenor)
                 {
-                    menor = array[i];
+                    numeroMenor = array[i];
                     posicion = i;
                 }
             }

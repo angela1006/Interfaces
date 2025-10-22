@@ -10,22 +10,22 @@ namespace Ejercicio3
     {
         static void Main(string[] args)
         {
-            Console.Write("Introduce un número entero no negativo: ");
-            if (int.TryParse(Console.ReadLine(), out int numero) && numero >= 0)
+            Console.Write("Introduce un número entero: ");
+            if ( numero >= 0)
             {
                 long resultado = Factorial(numero);
                 Console.WriteLine($"{numero}! = {resultado}");
             }
             else
             {
-                Console.WriteLine("Entrada no válida. Debes introducir un número entero no negativo.");
+                Console.WriteLine("Entrada no válida.");
             }
         }
         static long Factorial(int n)
         {
             if (n < 0)
             {
-                throw new ArgumentException("El número debe ser no negativo.");
+                throw new ArgumentException("Error el numero es negativo");
             }
             if (n == 0 || n == 1)
             {

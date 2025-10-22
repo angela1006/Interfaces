@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Ejercicio8
 {
@@ -21,7 +17,6 @@ namespace Ejercicio8
         static int SumaDigitos(int n)
         {
             int suma = 0;
-            n = Math.Abs(n);
 
             while (n > 0)
             {

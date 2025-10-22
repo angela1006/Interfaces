@@ -24,7 +24,7 @@ namespace Ejercicio6
 
                 if (ValidarLogin(usuario, contraseña))
                 {
-                    Console.WriteLine("¡Login exitoso!");
+                    Console.WriteLine("¡Login realizado!");
                     loginExitoso = true;
                 }
                 else
@@ -36,7 +36,7 @@ namespace Ejercicio6
 
             if (!loginExitoso)
             {
-                Console.WriteLine("Has agotado los intentos. Acceso denegado.");
+                Console.WriteLine("Has agotado los intentos.");
             }
         }
 

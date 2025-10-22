@@ -10,7 +10,7 @@ namespace Ejercicio4
     {
         static void Main(string[] args)
         {
-            Console.Write("Introduce un número entero: ");
+            Console.WriteLine("Introduce un número entero: ");
 
             int numero = int.Parse(Console.ReadLine());
 
