@@ -5,7 +5,7 @@ using System.Security.Permissions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Delegados2
+namespace Delegados1_2
 {
     internal class Program
     {
