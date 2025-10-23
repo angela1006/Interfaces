@@ -1,0 +1,8 @@
+C:\Users\amormat1010\Documents\Interfaces\Delegados2_1\Delegados2_1\bin\Debug\Delegados2_1.exe.config
+C:\Users\amormat1010\Documents\Interfaces\Delegados2_1\Delegados2_1\bin\Debug\Delegados2_1.exe
+C:\Users\amormat1010\Documents\Interfaces\Delegados2_1\Delegados2_1\bin\Debug\Delegados2_1.pdb
+C:\Users\amormat1010\Documents\Interfaces\Delegados2_1\Delegados2_1\obj\Debug\Delegados2_1.csproj.AssemblyReference.cache
+C:\Users\amormat1010\Documents\Interfaces\Delegados2_1\Delegados2_1\obj\Debug\Delegados2_1.csproj.CoreCompileInputs.cache
+C:\Users\amormat1010\Documents\Interfaces\Delegados2_1\Delegados2_1\obj\Debug\Delegados2_1.exe
+C:\Users\amormat1010\Documents\Interfaces\Delegados2_1\Delegados2_1\obj\Debug\Delegados2_1.pdb
+C:\Users\amormat1010\Documents\Interfaces\Delegados2_1\Delegados2_1\obj\Debug\Delegados2_1.exe.config
