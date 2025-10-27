@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amormat1010\\Documents\\Interfaces\\MetodoAnonimo2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D827C5-56A6-4DAF-8EA3-C8F1183F06C7}|MetodoAnonimo2\\MetodoAnonimo2.csproj|c:\\users\\amormat1010\\documents\\interfaces\\metodoanonimo2\\metodoanonimo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D827C5-56A6-4DAF-8EA3-C8F1183F06C7}|MetodoAnonimo2\\MetodoAnonimo2.csproj|solutionrelative:metodoanonimo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amormat1010\\Documents\\Interfaces\\MetodoAnonimo2\\MetodoAnonimo2\\Program.cs",
+              "RelativeDocumentMoniker": "MetodoAnonimo2\\Program.cs",
+              "ToolTip": "C:\\Users\\amormat1010\\Documents\\Interfaces\\MetodoAnonimo2\\MetodoAnonimo2\\Program.cs",
+              "RelativeToolTip": "MetodoAnonimo2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T12:57:27.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
