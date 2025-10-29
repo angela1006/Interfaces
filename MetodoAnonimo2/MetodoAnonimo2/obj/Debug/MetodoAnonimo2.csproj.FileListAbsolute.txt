@@ -1,0 +1,8 @@
+C:\Users\amormat1010\Documents\Interfaces\MetodoAnonimo2\MetodoAnonimo2\bin\Debug\MetodoAnonimo2.exe.config
+C:\Users\amormat1010\Documents\Interfaces\MetodoAnonimo2\MetodoAnonimo2\bin\Debug\MetodoAnonimo2.exe
+C:\Users\amormat1010\Documents\Interfaces\MetodoAnonimo2\MetodoAnonimo2\bin\Debug\MetodoAnonimo2.pdb
+C:\Users\amormat1010\Documents\Interfaces\MetodoAnonimo2\MetodoAnonimo2\obj\Debug\MetodoAnonimo2.csproj.AssemblyReference.cache
+C:\Users\amormat1010\Documents\Interfaces\MetodoAnonimo2\MetodoAnonimo2\obj\Debug\MetodoAnonimo2.csproj.CoreCompileInputs.cache
+C:\Users\amormat1010\Documents\Interfaces\MetodoAnonimo2\MetodoAnonimo2\obj\Debug\MetodoAnonimo2.exe
+C:\Users\amormat1010\Documents\Interfaces\MetodoAnonimo2\MetodoAnonimo2\obj\Debug\MetodoAnonimo2.pdb
+C:\Users\amormat1010\Documents\Interfaces\MetodoAnonimo2\MetodoAnonimo2\obj\Debug\MetodoAnonimo2.exe.config
