@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\1010a\\Documents\\C#\\Eventos_1\\",
+  "WorkspaceRootPath": "C:\\Users\\amormat1010\\Documents\\Interfaces\\Eventos_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8E3C96C-0D4F-4B85-89C1-07A5A4BA580E}|Eventos_1\\Eventos_1.csproj|c:\\users\\1010a\\documents\\c#\\eventos_1\\eventos_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8E3C96C-0D4F-4B85-89C1-07A5A4BA580E}|Eventos_1\\Eventos_1.csproj|solutionrelative:eventos_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amormat1010\\Documents\\Interfaces\\Eventos_1\\Eventos_1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Eventos_1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\1010a\\Documents\\C#\\Eventos_1\\Eventos_1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\amormat1010\\Documents\\Interfaces\\Eventos_1\\Eventos_1\\Program.cs",
               "RelativeDocumentMoniker": "Eventos_1\\Program.cs",
-              "ToolTip": "C:\\Users\\1010a\\Documents\\C#\\Eventos_1\\Eventos_1\\Program.cs",
+              "ToolTip": "C:\\Users\\amormat1010\\Documents\\Interfaces\\Eventos_1\\Eventos_1\\Program.cs",
               "RelativeToolTip": "Eventos_1\\Program.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAwwEwAAABpAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T16:28:22.765Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

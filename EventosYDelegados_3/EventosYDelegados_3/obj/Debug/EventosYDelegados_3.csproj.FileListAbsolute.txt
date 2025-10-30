@@ -1,0 +1,7 @@
+C:\Users\amormat1010\Documents\Interfaces\EventosYDelegados_3\EventosYDelegados_3\bin\Debug\EventosYDelegados_3.exe.config
+C:\Users\amormat1010\Documents\Interfaces\EventosYDelegados_3\EventosYDelegados_3\bin\Debug\EventosYDelegados_3.exe
+C:\Users\amormat1010\Documents\Interfaces\EventosYDelegados_3\EventosYDelegados_3\bin\Debug\EventosYDelegados_3.pdb
+C:\Users\amormat1010\Documents\Interfaces\EventosYDelegados_3\EventosYDelegados_3\obj\Debug\EventosYDelegados_3.csproj.AssemblyReference.cache
+C:\Users\amormat1010\Documents\Interfaces\EventosYDelegados_3\EventosYDelegados_3\obj\Debug\EventosYDelegados_3.csproj.CoreCompileInputs.cache
+C:\Users\amormat1010\Documents\Interfaces\EventosYDelegados_3\EventosYDelegados_3\obj\Debug\EventosYDelegados_3.exe
+C:\Users\amormat1010\Documents\Interfaces\EventosYDelegados_3\EventosYDelegados_3\obj\Debug\EventosYDelegados_3.pdb
