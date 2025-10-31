@@ -41,7 +41,7 @@ namespace EventosYDelegados_3
     {
         public void OnBackupCompletado(object sender, BackupEventArgs e)
         {
-            Console.WriteLine($"NOTIFICACIÓN: Backup del archivo '{e.NombreArchivo}' completado el {e.FechaBackup}");
+            Console.WriteLine($"NOTIFICACION: Backup del archivo '{e.NombreArchivo}' completado el {e.FechaBackup}");
         }
     }
 
@@ -66,7 +66,7 @@ namespace EventosYDelegados_3
             gestor.BackupCompletado += notificacion.OnBackupCompletado;
             gestor.BackupCompletado += log.OnBackupCompletado;
 
-            string[] archivos = { "documento1.txt", "imagen.png", "datos.csv" };
+            string[] archivos = { "documento.txt", "imagen.png", "index.html" };
             foreach (var archivo in archivos)
             {
                 gestor.CrearBackup(archivo);

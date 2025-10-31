@@ -1,0 +1,8 @@
+C:\Users\1010a\Documents\C#\EventosYDelegados_5\EventosYDelegados_5\bin\Debug\EventosYDelegados_5.exe.config
+C:\Users\1010a\Documents\C#\EventosYDelegados_5\EventosYDelegados_5\bin\Debug\EventosYDelegados_5.exe
+C:\Users\1010a\Documents\C#\EventosYDelegados_5\EventosYDelegados_5\bin\Debug\EventosYDelegados_5.pdb
+C:\Users\1010a\Documents\C#\EventosYDelegados_5\EventosYDelegados_5\obj\Debug\EventosYDelegados_5.csproj.AssemblyReference.cache
+C:\Users\1010a\Documents\C#\EventosYDelegados_5\EventosYDelegados_5\obj\Debug\EventosYDelegados_5.csproj.CoreCompileInputs.cache
+C:\Users\1010a\Documents\C#\EventosYDelegados_5\EventosYDelegados_5\obj\Debug\EventosYDelegados_5.exe
+C:\Users\1010a\Documents\C#\EventosYDelegados_5\EventosYDelegados_5\obj\Debug\EventosYDelegados_5.pdb
+C:\Users\1010a\Documents\C#\EventosYDelegados_5\EventosYDelegados_5\obj\Debug\EventosYDelegados_5.exe.config
